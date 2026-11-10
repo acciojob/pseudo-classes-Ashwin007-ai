@@ -1,7 +1,10 @@
-/*  your css code here. If applicable */
 
 :root {
     background-color: rgb(135, 206, 235);
+}
+
+body {
+    font-family: Arial, sans-serif;
 }
 
 article p:first-child {
@@ -10,7 +13,7 @@ article p:first-child {
 }
 
 article p:nth-child(2) {
-    color: black;
+    color: #333;
 }
 
 article p:last-child {
